@@ -11,8 +11,6 @@ build by kamiinarappCI
 
 ✦ **Changelogs**
 
-• Not tested build
-
 • Vanilla & Gapps Build available 
 
 • include MiCam & Dolby
