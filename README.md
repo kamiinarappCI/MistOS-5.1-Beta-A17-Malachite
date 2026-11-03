@@ -42,4 +42,7 @@ build by kamiinarappCI
   <a href="LINK_GAPPS">
     <img src="https://img.shields.io/badge/Gapps-Download-252525?style=for-the-badge&logo=android&logoColor=white">
   </a>
+  <a href="LINK_BUILD_3">
+    <img src="https://img.shields.io/badge/Backup-DOWNLOAD-ff0055?style=for-the-badge&logo=android&logoColor=white">
+  </a>
 </p>
