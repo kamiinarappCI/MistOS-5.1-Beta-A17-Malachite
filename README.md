@@ -19,7 +19,9 @@ build by kamiinarappCI
 
 • Full Changelogs [Here](https://projectmistos.in/changelog)
 
+✦ **Devices**
 
+REDMI Note 14 Pro 5G • POCO X7 5G
 
 ✦ **Screenshot**
 
