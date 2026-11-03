@@ -17,6 +17,8 @@ build by kamiinarappCI
 
 • include MiCam & Dolby
 
+• Using latest Trees malachite-project
+
 • Full Changelogs [Here](https://projectmistos.in/changelog)
 
 
