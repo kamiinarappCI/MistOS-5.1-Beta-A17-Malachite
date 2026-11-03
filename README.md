@@ -39,7 +39,7 @@ build by kamiinarappCI
   <a href="LINK_VANILLA">
     <img src="https://img.shields.io/badge/Vanilla-Download-ff0055?style=for-the-badge&logo=android&logoColor=white">
   </a>
-  <a href="LINK_GAPPS">
+  <a href="https://artifacts.serverhive.in/?id=project-mist-os-malachite-20261102-145757903632">
     <img src="https://img.shields.io/badge/Gapps-Download-252525?style=for-the-badge&logo=android&logoColor=white">
   </a>
   <a href="LINK_BUILD_3">
