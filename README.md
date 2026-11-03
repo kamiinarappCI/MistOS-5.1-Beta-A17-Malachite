@@ -25,7 +25,7 @@ REDMI Note 14 Pro 5G • POCO X7 5G
 
 ✦ **Screenshot**
 
-[Screenshot](hdjdhfj)
+[Screenshot](https://t.me/Kamiinamybini/200)
 
 [Full Screenshot Here](https://projectmistos.in/screenshots)
 
