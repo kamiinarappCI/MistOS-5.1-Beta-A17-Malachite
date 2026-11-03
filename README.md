@@ -23,6 +23,8 @@ build by kamiinarappCI
 
 ✦ **Screenshot**
 
+[Screenshot](hdjdhfj)
+
 [Full Screenshot Here](https://projectmistos.in/screenshots)
 
 
@@ -36,13 +38,13 @@ build by kamiinarappCI
 </p>
 
 <p align="center">
-  <a href="LINK_VANILLA">
+  <a href="https://artifacts.serverhive.in/?id=project-mist-os-malachite-20261103-022650280987">
     <img src="https://img.shields.io/badge/Vanilla-Download-ff0055?style=for-the-badge&logo=android&logoColor=white">
   </a>
   <a href="https://artifacts.serverhive.in/?id=project-mist-os-malachite-20261102-145757903632">
     <img src="https://img.shields.io/badge/Gapps-Download-252525?style=for-the-badge&logo=android&logoColor=white">
   </a>
-  <a href="LINK_BUILD_3">
+  <a href="https://t.me/Kamiinamybini/183">
     <img src="https://img.shields.io/badge/Backup-DOWNLOAD-ff0055?style=for-the-badge&logo=android&logoColor=white">
   </a>
 </p>
